@@ -1,0 +1,14 @@
+series:
+    - Rick and Morty
+    - Doctor Who (2005):
+        seasons: [1,10]
+        extra:
+            - 0:2
+            - 0:4
+            - 0:7
+            - 0:14
+            - 0:16
+            - 0:17
+    - Modern Family
+    - The Office (2005):
+        seasons: [1,7]
