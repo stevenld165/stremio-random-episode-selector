@@ -26,7 +26,7 @@ Example:
 ``` yaml
 series:
   - show1
-  - show2
+  - show2:
     seasons: [2,5]
   - show3:
     seasons: [1,6]
