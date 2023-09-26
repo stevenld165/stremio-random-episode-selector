@@ -10,6 +10,8 @@ It will then output a selection from your list, and ask whether or not you would
 - type n to open the episode in Stremio (opens to series page with the episode already selected, you will have to choose the source for watching whatever that may be)
 
 ![image](https://github.com/stevenld165/stremio-random-episode-selector/assets/19599232/78ee4f43-0ef9-4435-881a-c404aaaaf0cf)
+![ezgif-3-3b9c1ac4aa](https://github.com/stevenld165/stremio-random-episode-selector/assets/19599232/1d096a26-6e64-4246-8f0f-ace9f838a957)
+
 
 ## list.yaml format
 The formatting is simple, inside the series key, add any series you may want to watch. This name does not have to be exact as long as it is close enough and will not be confused with another series.
